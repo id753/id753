@@ -21,3 +21,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id753)](https://github.com/anuraghazra/github-readme-stats)
               
+### 🔥 Моя статистика GitHub
+
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=id753&show_icons=true&theme=radical)](https://github.com/ВАШ_USERNAME)
+
+### 💻 Топ языков
+
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=radical)](https://github.com/ВАШ_USERNAME)
