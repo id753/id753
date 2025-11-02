@@ -28,3 +28,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 💻 Топ языков
 
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=radical)](https://github.com/ВАШ_USERNAME)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=id753&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=id753&show_icons=true&theme=default#gh-light-mode-only" />
+  <img alt="Статистика GitHub" src="https://github-readme-stats.vercel.app/api?username=id753&show_icons=true&theme=default" />
+</picture>
