@@ -20,33 +20,31 @@ Developed and optimized SPA using React, React Router, and Redux.
     Worked in Agile/Scrum teams, managed tasks in Jira/Trello, conducted code reviews, and worked with Git and GitHub.
     Integrating third-party APIs (e.g., information, image libraries) into a web project.
     ---
-💻 Technical Skills
-📜 Front-End Technologies:
+## 💻 Technical Skills  
 
-  HTML5, CSS3, JavaScript, TypeScript
-    React (Hooks, Context, React Router, Redux, Redux Toolkit)
-    npm libraries
+### 📜 Front-End Technologies:  
+- HTML5, CSS3, JavaScript, TypeScript  
+- React (Hooks, Context, React Router, Redux, Redux Toolkit)  
+- npm libraries  
 
-🔧 Tools:
+### 🔧 Tools:  
+- Git  
+- Vite  
+- API  
+- Vercel
+- Jira
+- Slack
 
- Git
-    Vite
-    API
-    Vercel
-    Jira
-    Slack
+### 📐 Methodologies:  
+- Responsive/Adaptive Design  
+- Agile/Scrum
 
-📐 Methodologies:
+## 💪 Soft Skills  
 
-Responsive/Adaptive Design
-    Agile/Scrum
-
-💪 Soft Skills
-
-Teamwork (experience collaborating with cross-functional teams)
-    Customer focus
-    Goal setting and time management
-    Critical thinking
+- Teamwork (experience collaborating with cross-functional teams)  
+- Customer focus  
+- Goal setting and time management  
+- Critical thinking  
 
 ### Skills
 
