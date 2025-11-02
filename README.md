@@ -13,6 +13,41 @@ I like solving problems and looking for different solutions. My goal is to const
 *   🧠  I'm currently learning Node.js
   
 ---
+🏅 My key achievements:
+Developed and optimized SPA using React, React Router, and Redux.
+    Handled errors and managed request states with Redux Toolkit.
+    Setting up CI/CD and automatic deployment on Vercel, Netlify.
+    Worked in Agile/Scrum teams, managed tasks in Jira/Trello, conducted code reviews, and worked with Git and GitHub.
+    Integrating third-party APIs (e.g., information, image libraries) into a web project.
+    ---
+💻 Technical Skills
+📜 Front-End Technologies:
+
+  HTML5, CSS3, JavaScript, TypeScript
+    React (Hooks, Context, React Router, Redux, Redux Toolkit)
+    npm libraries
+
+🔧 Tools:
+
+ Git
+    Vite
+    API
+    Vercel
+    Jira
+    Slack
+
+📐 Methodologies:
+
+Responsive/Adaptive Design
+    Agile/Scrum
+
+💪 Soft Skills
+
+Teamwork (experience collaborating with cross-functional teams)
+    Customer focus
+    Goal setting and time management
+    Critical thinking
+
 ### Skills
 
 <p align="left">
