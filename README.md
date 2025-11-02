@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🖥️  See my portfolio at [си](http://сим)
 *   👥  I'm looking to collaborate on смч
 *   💬  Ask me about чмсчм
-*   (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+*   ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 *   
 <p align="left">
@@ -20,15 +20,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                   </p>
                   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id753)](https://github.com/anuraghazra/github-readme-stats)
-              
-### 🔥 Моя статистика GitHub
-
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=id753&show_icons=true&theme=radical)](https://github.com/ВАШ_USERNAME)
 
 ### 💻 Топ языков
-### 💻 Топ языков (Радикальная тема + Прозрачный фон)
-
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=radical&bg_color=00000000)](https://github.com/id753)
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark#gh-dark-mode-only" />
