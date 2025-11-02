@@ -23,14 +23,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 💻 Топ языков
  <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source  
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark#gh-dark-mode-only" />
   <source media="(prefers-color-scheme: light)" 
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default#gh-light-mode-only" />
   <img alt="Топ языков" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" />
 </picture> 
- <picture>
+ <!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -40,4 +40,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&show_icons=true" />
-</picture> 
+</picture>  -->
