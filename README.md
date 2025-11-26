@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
   
-I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Redux for state management). I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools.
+I am a ---Junior Frontend Developer--- with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Redux for state management). I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools.
 I am responsible and motivated, with a strong focus on practical problem-solving, clean code, and continuous learning. I generate creative ideas, think deeply and analytically, and pay close attention to detail. I manage my time effectively and work well both independently and in a team.
 I am seeking a challenging environment where I can apply my skills, contribute creatively, and continue growing as a professional.
 
