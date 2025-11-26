@@ -1,11 +1,13 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eugene — Front-End Developer.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eugene.
 ======================================================================================================================================================
 ---
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
   
-I like solving problems and looking for different solutions. My goal is to constantly improve my skills and create valuable digital products. I am inspired to work on new projects and gain experience. I have sound knowledge of HTML, CSS, JavaScript, and React. Also, I have hands-on experience in following Agile/Scrum methodology when working in a team. I am a fast learner, responsible, and ready for challenging tasks.In my free time I like to dance and paint. I am a creative person and always have a positive attitude towards new tasks.
+I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Redux for state management). I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools.
+I am responsible and motivated, with a strong focus on practical problem-solving, clean code, and continuous learning. I generate creative ideas, think deeply and analytically, and pay close attention to detail. I manage my time effectively and work well both independently and in a team.
+I am seeking a challenging environment where I can apply my skills, contribute creatively, and continue growing as a professional.
 
 *   🌍  I'm based in Ukraine
 *   🖥️  See my portfolio at [LinkedIn](http://сим)
