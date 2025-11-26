@@ -1,11 +1,11 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eugene.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eugene - Junior Frontend Developer.
 ======================================================================================================================================================
 ---
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
   
-I am a ---Junior Frontend Developer--- with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Redux for state management). I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools.
+I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Redux for state management). I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools.
 I am responsible and motivated, with a strong focus on practical problem-solving, clean code, and continuous learning. I generate creative ideas, think deeply and analytically, and pay close attention to detail. I manage my time effectively and work well both independently and in a team.
 I am seeking a challenging environment where I can apply my skills, contribute creatively, and continue growing as a professional.
 
@@ -13,17 +13,8 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 *   🖥️  See my portfolio at [LinkedIn](http://сим)
 *   ✉️  You can contact me at [gmail.com](mailto:gmail.com)
 *   🧠  I'm currently learning Node.js
-  
----
-🏅 My key achievements:
-Developed and optimized SPA using React, React Router, and Redux.
-    Handled errors and managed request states with Redux Toolkit.
-    Setting up CI/CD and automatic deployment on Vercel, Netlify.
-    Worked in Agile/Scrum teams, managed tasks in Jira/Trello, conducted code reviews, and worked with Git and GitHub.
-    Integrating third-party APIs (e.g., information, image libraries) into a web project.
-    ---
-## 💻 Technical Skills  
 
+## 💻 Technical Skills  
 ### 📜 Front-End Technologies:  
 - HTML5, CSS3, JavaScript, TypeScript  
 - React (Hooks, Context, React Router, Redux, Redux Toolkit)  
@@ -34,7 +25,6 @@ Developed and optimized SPA using React, React Router, and Redux.
 - Vite  
 - API  
 - Vercel
-- Jira
 - Slack
 
 ### 📐 Methodologies:  
@@ -42,12 +32,12 @@ Developed and optimized SPA using React, React Router, and Redux.
 - Agile/Scrum
 
 ## 💪 Soft Skills  
-
-- Teamwork (experience collaborating with cross-functional teams)  
-- Customer focus  
-- Goal setting and time management  
-- Critical thinking  
-
+- Creative thinking
+- Critical thinking 
+- Multitasking 
+- Self motivation 
+- Attention to detail
+  
 ### Skills
 
 <p align="left">
