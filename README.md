@@ -54,18 +54,15 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 
 ---
 ### Badges
- <picture>
-  <source  
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark#gh-dark-mode-only" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default#gh-light-mode-only" />
-  <img alt="Топ языков" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" />
-</picture> 
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact" />
-  <img src="https://metrics.lecoq.io/id753?template=classic&languages=1" alt="Metrics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark"
+       alt="Top Langs" />
+
+  <img src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark"
+       alt="Top Langs fallback"
+       width="0" height="0"
+  />
 </p>
+
 
 
