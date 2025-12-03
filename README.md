@@ -68,7 +68,7 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&lay
   <img align="center" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact" />
   <img src="https://metrics.lecoq.io/id753?template=classic&languages=1" alt="Metrics"/>
   <img src="https://metrics.lecoq.io/id753?template=classic&languages=1&base=0" alt="Most used languages" />
+<!-- <img src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark" /> -->
 
-<img src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark" />
 
 </p>
