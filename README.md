@@ -62,3 +62,6 @@ I am seeking a challenging environment where I can apply my skills, contribute c
   <img alt="Топ языков" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" />
 </picture> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark" alt="Топ мов" width="400" align="center" style="max-width: 100%;" #gh-dark-mode-only />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" alt="Топ мов" width="400" align="center" style="max-width: 100%;" #gh-light-mode-only />
