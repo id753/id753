@@ -64,16 +64,7 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 </picture> 
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark" 
-    alt="Топ мов" 
-    #gh-dark-mode-only 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" 
-    alt="Топ мов" 
-    #gh-light-mode-only 
-  />
+  <img src="https://metrics.lecoq.io/id753?template=classic&languages=1" alt="Metrics"/>
 </p>
 
-![Metrics](https://metrics.lecoq.io/id753?template=classic&languages=1)
+
