@@ -75,3 +75,5 @@ I am seeking a challenging environment where I can apply my skills, contribute c
     #gh-light-mode-only 
   />
 </p>
+
+![Metrics](https://metrics.lecoq.io/id753?template=classic&languages=1)
