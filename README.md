@@ -69,7 +69,6 @@ I am seeking a challenging environment where I can apply my skills, contribute c
     alt="Топ мов" 
     #gh-dark-mode-only 
   />
-
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" 
     alt="Топ мов" 
