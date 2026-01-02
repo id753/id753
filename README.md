@@ -42,11 +42,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 
   🗣️ Languages
 
-![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-![Polish](https://img.shields.io/badge/Russian-A2-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-Pre-Intermediate-blue?style=flat-square)![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square)![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
 Контакти
 
