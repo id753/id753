@@ -13,7 +13,7 @@
     </td>
   </tr>
 </table>
----
+
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Next.js (App Router) and Redux for state management). </br>
 I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools. </br>
