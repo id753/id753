@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================================
 ---
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-  
-I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Redux for state management). </br>
+I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Next.js (App Router) and Redux for state management). </br>
 I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools. </br>
 I am responsible and motivated, with a strong focus on practical problem-solving, clean code, and continuous learning.  </br>
 I generate creative ideas, think deeply and analytically, and pay close attention to detail.  </br>
@@ -13,14 +12,14 @@ I manage my time effectively and work well both independently and in a team. </b
 I am seeking a challenging environment where I can apply my skills, contribute creatively, and continue growing as a professional.
 
 *   🌍  I'm based in Ukraine
-*   🖥️  See my portfolio at [LinkedIn](http://сим)
+*   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/o-eugene/)
 *   ✉️  You can contact me at [gmail.com](mailto:gmail.com)
 *   🧠  I'm currently learning Node.js
 
 ## 💻 Technical Skills  
 ### 📜 Front-End Technologies:  
 - HTML5, CSS3, JavaScript, TypeScript  
-- React (Hooks, Context, React Router, Redux, Redux Toolkit)  
+- React (Hooks, Context, React Router, Next.js (App Router), Redux Toolkit)  
 - npm libraries  
 
 ### 🔧 Tools:  
