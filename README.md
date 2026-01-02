@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400">
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300">
     </td>
     <td valign="center">
       <h1>
@@ -13,7 +13,6 @@
     </td>
   </tr>
 </table>
-======================================================================================================================================================
 ---
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Next.js (App Router) and Redux for state management). </br>
@@ -60,6 +59,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
 
+---
 ### Skills
 
 <p align="left">
