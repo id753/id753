@@ -9,7 +9,7 @@
       <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
       </h1>
-      <p>My name is Eugene - Junior Frontend Developer.</p>
+      <р2>My name is Eugene - Junior Frontend Developer.</р2>
     </td>
   </tr>
 </table>
