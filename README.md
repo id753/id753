@@ -60,15 +60,14 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 -->
 ---
 ### Badges
- <picture>
-
+ <!-- <picture>
   <source  
 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark#gh-dark-mode-only" />
   <source media="(prefers-color-scheme: light)" 
  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default#gh-light-mode-only" />
   <img alt="Top languages" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" />
-</picture> 
+</picture>  -->
 
  <p align="center">
  <img align="center" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact" /> 
