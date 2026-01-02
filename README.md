@@ -36,17 +36,17 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 
   💻Featured Projects  
 
-- [Filmoteka](https://github.com/yourusername/filmoteka) – a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
+- [NoteHub](https://github.com/id753/09-auth) – a multi-page web app for note-taking with integrated authentication and SEO.
 
-- [IceCream Landing](https://github.com/yourusername/icecream-team-project) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.
+- [TRENDING MOVIES](https://github.com/id753/goit-react-hw-05) – an application that allows users to search for movies by title, view daily trends, and explore detailed information, including reviews and cast.
 
   🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+![Polish](https://img.shields.io/badge/Russian-A2-lightgrey?style=flat-square)
 
 Контакти
 
