@@ -25,13 +25,13 @@ HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
 - React (Hooks, Context, React Router, Next.js (App Router), Redux Toolkit)  
 - npm libraries  
 -->
-## 🔧 Tools:  
+## 🔧 Tools
 Git | Vite | REST API | Vercel | Slack
 
-## 📐 Methodologies:  
+## 📜 Methodologies
 Responsive/Adaptive Design | Agile/Scrum
 
-## 💪 Soft Skills  
+## 💪 Soft Skills
 Creative thinking | Critical thinking | Multitasking | Self motivation | Attention to detail
 
   💻Featured Projects  
@@ -42,7 +42,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 
   🗣️ Languages
 
-![English](https://img.shields.io/badge/English-PreIntermediate-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-"Pre-Intermediate"-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
 Контакти
 
