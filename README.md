@@ -34,19 +34,16 @@ Responsive/Adaptive Design | Agile/Scrum
 ## 💪 Soft Skills
 Creative thinking | Critical thinking | Multitasking | Self motivation | Attention to detail
 
-  💻Featured Projects  
-
+## 💻Featured Projects  
 - [NoteHub](https://github.com/id753/09-auth) – a multi-page web app for note-taking with integrated authentication and SEO.
-
 - [TRENDING MOVIES](https://github.com/id753/goit-react-hw-05) – an application that allows users to search for movies by title, view daily trends, and explore detailed information, including reviews and cast.
 
-  🗣️ Languages
+## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-"Pre-Intermediate"-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-Pre--Intermediate-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
-Контакти
 
-📫 How to reach me:  
+## 📫 How to reach me:  
 
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
 ### Skills
