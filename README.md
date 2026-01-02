@@ -49,6 +49,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 ## 📫 How to reach me:  
 
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
+
 ### Skills
 
 <p align="left">
@@ -68,12 +69,9 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&lay
   <img alt="Top languages" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&layout=compact&theme=default" />
 </picture>  -->
-
  <p align="center">
  <img align="center" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact" /> 
   <!-- <img src="https://metrics.lecoq.io/id753?template=classic&languages=1" alt="Metrics"/>
   <img src="https://metrics.lecoq.io/id753?template=classic&languages=1&base=0" alt="Most used languages" /> -->
 <!-- <img src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=id753&layout=compact&theme=dark" /> -->
-
-
  </p> 
