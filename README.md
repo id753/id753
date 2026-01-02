@@ -39,7 +39,8 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 ## 💻Featured Projects  
 - [NoteHub](https://github.com/id753/09-auth) – a multi-page web app for note-taking with integrated authentication and SEO.
 - [TRENDING MOVIES](https://github.com/id753/goit-react-hw-05) – an application that allows users to search for movies by title, view daily trends, and explore detailed information, including reviews and cast.
-
+- [Todo project](https://github.com/id753/todo-project) – a project showcasing three distinct implementations of a Todo List application with advanced features (editing, sorting, and theme/language switching).
+  
 ## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-Pre--Intermediate-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
@@ -58,7 +59,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 ### Socials   
 <p align="left"> <a href="https://www.github.com/45435" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a><a href="https://www.linkedin.com/in/345mjhj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 -->
-
+##
 ### Badges
  <!-- <picture>
   <source  
