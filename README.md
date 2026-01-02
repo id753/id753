@@ -16,30 +16,43 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 *   ✉️  You can contact me at [gmail.com](mailto:gmail.com)
 *   🧠  I'm currently learning Node.js
 
+## 💻 Tech Stack  
+HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
+<!--  
 ## 💻 Technical Skills  
 ### 📜 Front-End Technologies:  
 - HTML5, CSS3, JavaScript, TypeScript  
 - React (Hooks, Context, React Router, Next.js (App Router), Redux Toolkit)  
 - npm libraries  
+-->
+## 🔧 Tools:  
+Git | Vite | REST API | Vercel | Slack
 
-### 🔧 Tools:  
-- Git  
-- Vite  
-- API  
-- Vercel
-- Slack
-
-### 📐 Methodologies:  
-- Responsive/Adaptive Design  
-- Agile/Scrum
+## 📐 Methodologies:  
+Responsive/Adaptive Design | Agile/Scrum
 
 ## 💪 Soft Skills  
-- Creative thinking
-- Critical thinking 
-- Multitasking 
-- Self motivation 
-- Attention to detail
-  
+Creative thinking | Critical thinking | Multitasking | Self motivation | Attention to detail
+
+  💻Featured Projects  
+
+- [Filmoteka](https://github.com/yourusername/filmoteka) – a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
+
+- [IceCream Landing](https://github.com/yourusername/icecream-team-project) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.
+
+  🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+
+Контакти
+
+📫 How to reach me:  
+
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
 ### Skills
 
 <p align="left">
