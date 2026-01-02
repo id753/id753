@@ -1,9 +1,18 @@
 
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif) -->
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" align="middle">
-  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" align="middle"> My name is Eugene - Junior Frontend Developer.
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400">
+    </td>
+    <td valign="center">
+      <h1>
+        Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
+      </h1>
+      <p>My name is Eugene - Junior Frontend Developer.</p>
+    </td>
+  </tr>
+</table>
 ======================================================================================================================================================
 ---
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
