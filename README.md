@@ -31,7 +31,7 @@ HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
 Git | Vite | REST API | Vercel | Slack
 
 ## 📜 Methodologies
-Responsive/Adaptive Design | Agile/Scrum
+Responsive and Adaptive Design | Agile/Scrum | Accessibility 
 
 ## 💪 Soft Skills
 Creative thinking | Critical thinking | Multitasking | Self motivation | Attention to detail
