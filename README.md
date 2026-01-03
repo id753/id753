@@ -15,7 +15,9 @@
 </table>
 
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Next.js (App Router) and Redux for state management). </br>
+
+<p>
+I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Next.js (App Router) and Redux for state management). </p></br>
 I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools. </br>
 I am responsible and motivated, with a strong focus on practical problem-solving, clean code, and continuous learning.  </br>
 I generate creative ideas, think deeply and analytically, and pay close attention to detail.  </br>
