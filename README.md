@@ -4,8 +4,8 @@
   <tr>
     <td>
      <!-- <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300"> -->
-      ![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521 2](https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1)
- <img src="https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1" width="300">  
+      <!-- ![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521 2](https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1) -->
+ <img src="https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1" width="250">  
     </td>
     <td valign="center">
       <h1>
