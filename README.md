@@ -2,16 +2,16 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif) -->
 <table>
   <tr>
-    <td>
-     <!-- <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300"> -->
-      <!-- ![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521 2](https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1) -->
- <img src="https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1" width="150">  
-    </td>
     <td valign="center">
       <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Eugene
       </h1>
       <h2> Junior Frontend Developer</h2>
+    </td>
+    <td>
+     <!-- <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300"> -->
+      <!-- ![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521 2](https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1) -->
+ <img src="https://github.com/user-attachments/assets/dc55d3b7-67f6-47d8-a46b-01fc2a7195e1" width="150">  
     </td>
   </tr>
 </table>
