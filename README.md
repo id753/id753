@@ -27,7 +27,7 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 
 *   🌍  I'm based in Ukraine
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/o-eugene/)
-*   ✉️  You can contact me at [gmail.com](evgeniy.onip@gmail.com)
+*   ✉️  You can contact me at [gmail.com](mailto:evgeniy.onip@gmail.com)
 *   🧠  I'm currently learning Node.js
 
 ## 💻 Tech Stack  
