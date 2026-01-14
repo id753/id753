@@ -60,7 +60,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 
 ## 📫 How to reach me:  
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/o-eugene) | [Telegram](https://t.me/developer753) | [Email](mailto:evgeniy.onip@gmail.com)
 
 ---
 ## Badges 
