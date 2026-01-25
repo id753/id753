@@ -48,7 +48,7 @@ Responsive and Adaptive Design | Agile/Scrum | Accessibility
 ## 💪 Soft Skills
 Creative thinking | Critical thinking | Multitasking | Self motivation | Attention to detail
 
-## 🧰 Featured Projects  (more in ☆ Stars)
+## 🧰 Featured Projects  (see more in ☆Stars)
 - [NoteHub](https://github.com/id753/09-auth) – a multi-page web app for note-taking with integrated authentication and SEO.
 - [TRENDING MOVIES](https://github.com/id753/goit-react-hw-05) – an application that allows users to search for movies by title, view daily trends, and explore detailed information, including reviews and cast.
 - [Todo project](https://github.com/id753/todo-project) – a project showcasing three distinct implementations of a Todo List application with advanced features (editing, sorting, and theme/language switching).
