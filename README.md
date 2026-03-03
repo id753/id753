@@ -7,6 +7,8 @@
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Eugene
       </h1>
       <h2> Junior Frontend Developer</h2>
+      <h2>⚡Open to Internship or Junior opportunities⚡</h2>
+    
     </td>
     <td>
      <!-- <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300"> -->
