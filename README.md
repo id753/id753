@@ -26,10 +26,11 @@ I manage my time effectively and work well both independently and in a team. </b
 I am seeking a challenging environment where I can apply my skills, contribute creatively, and continue growing as a professional.
 
 *   🌍  I'm based in Ukraine
+*   ⚡ Open to Internship or Junior opportunities.
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/o-eugene/)
 *   ✉️  You can contact me at [gmail.com](mailto:evgeniy.onip@gmail.com)
-*   🧠  I'm currently learning Node.js
-
+*   🔭  I’m currently learning Node.js for Full Stack development.
+🧠
 ## 💻 Tech Stack  
 HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
 <!--  
