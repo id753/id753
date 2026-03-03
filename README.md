@@ -60,9 +60,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 ![English](https://img.shields.io/badge/English-Pre--Intermediate-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
 
-## 📫 How to reach me:  
-
-[LinkedIn](https://www.linkedin.com/in/o-eugene) | [Telegram](https://t.me/developer753) | [Email](mailto:evgeniy.onip@gmail.com)
+## 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/o-eugene) | [Telegram](https://t.me/developer753) | [Email](mailto:evgeniy.onip@gmail.com)
 
 ---
 ## Badges 
