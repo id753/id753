@@ -30,8 +30,8 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/o-eugene/)
 *   ✉️  You can contact me at [gmail.com](mailto:evgeniy.onip@gmail.com)
 *   🔭  I’m currently learning Node.js for Full Stack development.
-🧠
-## 💻 Tech Stack  
+
+      # 💻 Tech Stack  
 HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
 <!--  
 ## 💻 Technical Skills  
