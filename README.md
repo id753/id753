@@ -19,12 +19,11 @@
 
 <!-- ![Баннер профиля](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I am a Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React (including Next.js (App Router) and Redux for state management).</br>
-I have worked with semantic markup, responsive design, accessibility (a11y), building interactive user interfaces, and various libraries and tools. </br>
-I am responsible and motivated, with a strong focus on practical problem-solving, clean code, and continuous learning.  </br>
-I generate creative ideas, think deeply and analytically, and pay close attention to detail.  </br>
-I manage my time effectively and work well both independently and in a team. </br>
-I am seeking a challenging environment where I can apply my skills, contribute creatively, and continue growing as a professional.
+I am a Junior Fullstack Developer with experience in React, TypeScript, Next.js (App Router), and Redux Toolkit on the frontend, and Node.js with Express.js on the backend. I have worked with semantic markup, responsive and adaptive design, accessibility (a11y), and building interactive UIs using modern npm libraries. </br>
+On the backend, I have had exposure to data modeling with MongoDB and Mongoose, designing REST APIs, and applying validation using Joi and Celebrate. I have also worked with server-side logic using dotenv, CORS, and http-errors, and have used Pino for basic logging. I have had exposure to API testing using Postman and deploying backend applications on Render and frontend projects on Vercel.</br>
+Responsible and motivated, focused on practical problem-solving, clean code, and continuous learning. I combine analytical thinking with creativity, generate useful ideas, and show strong attention to detail. I am actively developing my time-management skills and work well both independently and in a team.</br>
+I am seeking a growth-focused role in an ethically-minded company where I can apply my skills, contribute creatively, and help build impactful products.</br>
+
 
 *   🌍  I'm based in Ukraine
 *   ⚡ Open to Internship or Junior opportunities.
@@ -33,7 +32,7 @@ I am seeking a challenging environment where I can apply my skills, contribute c
 *   🔭  I’m currently learning Node.js for Full Stack development.
 
       # 💻 Tech Stack  
-HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
+HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit | Node.js | Express.js 
 <!--  
 ## 💻 Technical Skills  
 ### 📜 Front-End Technologies:  
@@ -42,7 +41,7 @@ HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit
 - npm libraries  
 -->
 ## 🔧 Tools
-Git | Vite | REST API | Vercel | Slack
+Git | Vite | MongoDB | Postman | REST API | Vercel | Render | Slack 
 
 ## 📜 Methodologies
 Responsive and Adaptive Design | Agile/Scrum | Accessibility 
