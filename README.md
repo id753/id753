@@ -6,7 +6,7 @@
       <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Eugene
       </h1>
-      <h2> Junior Frontend Developer</h2>
+      <h2> Junior Fullstack Developer</h2>
       <h2>⚡Open to Internship or Junior opportunities⚡</h2>
     </td>
     <td>
