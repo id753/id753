@@ -23,7 +23,8 @@
 
  I have worked with semantic markup, responsive and adaptive design, accessibility (a11y), and building interactive UIs using modern npm libraries. </br>
 On the backend, I have had exposure to data modeling with MongoDB and Mongoose, designing REST APIs, and applying validation using Joi and Celebrate. I have also worked with server-side logic using dotenv, CORS, and http-errors, and have used Pino for basic logging. </br>
-I have a basic understanding of the SDLC and testing fundamentals, with hands-on API testing using Postman and familiarity with Jira. I also have experience deploying backend services on Render and frontend applications on Vercel."</br>
+
+I have a basic understanding of the SDLC and testing fundamentals, with hands-on API testing using Postman and familiarity with Jira. </br>I also have experience deploying backend services on Render and frontend applications on Vercel."</br>
 
 Responsible and motivated, focused on practical problem-solving, clean code, and continuous learning. I combine analytical thinking with creativity, generate useful ideas, and show strong attention to detail. I am actively developing my time-management skills and work well both independently and in a team.</br>
 
