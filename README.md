@@ -35,7 +35,7 @@ I am seeking a growth-focused role in an ethically-minded company where I can ap
 *   ⚡ Open to Internship or Junior opportunities.
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/o-eugene/)
 *   ✉️  You can contact me at [gmail.com](mailto:evgeniy.onip@gmail.com)
-*   🔭  I’m currently refining my projects and deepening my fullstack expertise.
+*   🔭  I’m currently refining my projects and deepening my fullstack expertise. And implementing personal projects.
 
       # 💻 Tech Stack  
 HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit | Node.js | Express.js 
