@@ -5,6 +5,7 @@
     <td valign="center">
       <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Evgeniy
+        <img src="https://www.flaticon.com/ru/free-animated-icon/thunder_17102860?term=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B8&page=1&position=2&origin=tag&related_id=17102860" width="30">
       </h1>
       <h2> Junior Fullstack Developer</h2>
       <h2>⚡Open to Internship or Junior opportunities⚡</h2>
