@@ -1,4 +1,3 @@
-<img width="640" height="640" alt="free-animated-icon-thunder-17102860" src="https://github.com/user-attachments/assets/7364ba3f-787c-424b-9e96-412a1efc37dd" />
 
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif) -->
 <table>
@@ -6,7 +5,6 @@
     <td valign="center">
       <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Evgeniy
-        <img src="https://www.flaticon.com/ru/free-animated-icon/thunder_17102860?term=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B8&page=1&position=2&origin=tag&related_id=17102860" width="30">
       </h1>
       <h2> Junior Fullstack Developer</h2>
       <h2>⚡Open to Internship or Junior opportunities⚡</h2>
