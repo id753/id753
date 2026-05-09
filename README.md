@@ -128,4 +128,4 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=id753&lay
  </p> 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4493F8&vCenter=true&width=550&lines=I+enjoy+coding+and+learning+new+things+%F0%9F%9A%80++;Working+towards+becoming+a+Full-Stack+Dev+%F0%9F%92%BB++;Improving+every+day+%F0%9F%94%A5++++...++++++...++++Well%2C+almost." alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4493F8&vCenter=true&width=550&lines=I+enjoy+coding+and+learning+new+things+%F0%9F%9A%80++;Working+towards+becoming+a+Full-Stack+Dev+%F0%9F%92%BB++;Improving+every+day+%F0%9F%94%A5++++...++++++...++++Well%2C+almost." alt="Typing SVG" /></a>
