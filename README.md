@@ -56,9 +56,9 @@ Responsive and Adaptive Design | Agile/Scrum | Accessibility
 Creative thinking | Critical thinking | Multitasking | Self motivation | Attention to detail
 
 ## 🧰 Featured Projects  (see more in ☆Stars)
+- [Manny.Services](https://github.com/id753/manny-service) – a modern web platform designed to help families quickly find trusted and experienced mannies for childcare and everyday support.
 - [NoteHub](https://github.com/id753/09-auth) – a multi-page web app for note-taking with integrated authentication and SEO.
 - [Trending Movies](https://github.com/id753/trending_movies_app) – an application that allows users to search for movies by title, view daily trends, and explore detailed information, including reviews and cast.
-- [Todo project](https://github.com/id753/todo-project) – a project showcasing three distinct implementations of a Todo List application with advanced features (editing, sorting, and theme/language switching).
 - [Podorozhnyky](https://github.com/id753/codev1be-social-web) – a platform for travelers to share travel stories, find inspiration, and join a community of like-minded travelers.
     
 ## 🗣️ Languages
