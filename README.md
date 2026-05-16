@@ -1,4 +1,4 @@
-[EVGENIY_O_JUNIOR_FULLSTACK_DEVELOPER-5-26-1.pdf](https://github.com/user-attachments/files/27852909/EVGENIY_O_JUNIOR_FULLSTACK_DEVELOPER-5-26-1.pdf)
+
 
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif) -->
 <table>
