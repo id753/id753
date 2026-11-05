@@ -64,7 +64,7 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
     
 ## 🗣️ Languages
 
-[![English](https://img.shields.io/badge/English-Pre--Intermediate+_(EF_SET_Certified_CLICK!)-blue?style=flat-square)](https://cert.efset.org/1N3TNp) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-yellow?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-green?style=flat-square)
+[![English](https://img.shields.io/badge/English-Pre--Intermediate+_(EF_SET_Certified_CLICK!)-blue?style=flat-square)](https://cert.efset.org/1N3TNp) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-violet?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-green?style=flat-square)
 
 
 
