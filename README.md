@@ -37,7 +37,8 @@ I am seeking a growth-focused role in an ethically-minded company where I can ap
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/o-eugene/)
 *   ✉️  You can contact me at [gmail.com](mailto:evgeniy.onip@gmail.com)
 *   🔭  I’m currently refining my projects and deepening my fullstack expertise. And implementing personal projects.
-
+*   ✨ Also ![Status](https://img.shields.io/badge/status-in%20progress-yellow) [E-Pharmacy Admin Dashboard](https://github.com/id753/pharmacy-admin-panel) – a full-stack administrative web application designed for a medical store management system.
+  
       # 💻 Tech Stack  
 HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux Toolkit | Node.js | Express.js 
 <!--  
@@ -61,7 +62,10 @@ Creative thinking | Critical thinking | Multitasking | Self motivation | Attenti
 - [NoteHub](https://github.com/id753/09-auth) – a multi-page web app for note-taking with integrated authentication and SEO.
 - [Trending Movies](https://github.com/id753/trending_movies_app) – an application that allows users to search for movies by title, view daily trends, and explore detailed information, including reviews and cast.
 - [Podorozhnyky](https://github.com/id753/codev1be-social-web) – a platform for travelers to share travel stories, find inspiration, and join a community of like-minded travelers.
+
+
     
+  
 ## 🗣️ Languages
 
 [![English](https://img.shields.io/badge/English-Pre--Intermediate+_(EF_SET_Certified_CLICK!)-blue?style=flat-square)](https://cert.efset.org/1N3TNp) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-violet?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-green?style=flat-square)
